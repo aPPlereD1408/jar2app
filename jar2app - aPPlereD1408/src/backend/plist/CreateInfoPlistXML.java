@@ -21,9 +21,6 @@ public class CreateInfoPlistXML {
                 "    <key>CFBundleName</key>\n" +
                 "    <string>" + inputAppName.getText() + "</string>\n" +
                 "\n" +
-                "    <key>CFBundleDevelopmentRegion</key>\n" +
-                "    <string>en</string>\n" +
-                "\n" +
                 "    <!-- from inputs -->\n" +
                 "    <key>CFBundleVersion</key>\n" +
                 "    <string>" + bundleIdentifier.getText() + "</string>\n" +
