@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: de.kruemmling.jar2app.javafx.jar2appapplered1408javafx.Main_
+ Exec
+
