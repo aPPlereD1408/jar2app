@@ -15,7 +15,7 @@ With this tool you can convert your .jar files into a macOS app.
 #### Use in IDE
     1. clone git reposity
     2. import to IDE
-    3. run [Main]
+    3. run [Main](https://github.com/aPPlereD1408/jar2app/tree/main/Application/jar2app.app)
 ## Requirements
 
 Files:
