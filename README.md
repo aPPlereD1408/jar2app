@@ -22,7 +22,7 @@ With this tool you can convert your .jar files into a macOS app.
 
 Files:
 - this repository to run in IDE
-- your icon for the dock as a .icns-file
+- your icon for the dock as an .icns-file
 - your built .jar-file
 
 System:
